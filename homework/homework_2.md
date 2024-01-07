@@ -4,7 +4,7 @@
 
 **终端运行结果**
 
-<img src="/Users/fangxin/Library/Application Support/typora-user-images/image-20240107152246527.png" alt="image-20240107152246527" style="zoom:33%;" />
+<img src="/homework/homework_2_figs/image-20240107152246527.png" alt="image-20240107152246527" style="zoom:33%;" />
 
 发现其对话只是在回答问题，虽然具有一定的知识储备，但是缺少对话经验
 当我给他一个判断句时，他只能回答yes or no；
