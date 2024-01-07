@@ -14,18 +14,18 @@
 
 **Web运行结果**
 
-<img src="/Users/fangxin/Library/Application Support/typora-user-images/image-20240107153926177.png" alt="image-20240107153926177" style="zoom: 33%;" />
+<img src="/homework/homework_2_figs/image-20240107153926177.png" alt="image-20240107153926177" style="zoom: 33%;" />
 
 2. 熟悉 hugging face 下载功能，使用 `huggingface_hub` python 包，下载 `InternLM-20B` 的 config.json 文件到本地（需截图下载过程）。
 
-![image-20240107165537568](/Users/fangxin/Library/Application Support/typora-user-images/image-20240107165537568.png)
+![image-20240107165537568](/homework/homework_2_figs/image-20240107165537568.png)
 
 # 进阶作业
 
 1. 完成浦语·灵笔的图文理解及创作部署（需截图）
 
-   <img src="/Users/fangxin/Library/Application Support/typora-user-images/image-20240107161908283.png" alt="image-20240107161908283" style="zoom: 25%;" />
+   <img src="/homework/homework_2_figs/image-20240107161908283.png" alt="image-20240107161908283" style="zoom: 25%;" />
 
 2. 完成 Lagent 工具调用 Demo 创作部署（需截图）
 
-![image-20240107162849989](/Users/fangxin/Library/Application Support/typora-user-images/image-20240107162849989.png)
+![image-20240107162849989](/homework/homework_2_figs/image-20240107162849989.png)
